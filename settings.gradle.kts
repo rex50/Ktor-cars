@@ -1,0 +1,1 @@
+rootProject.name = "com.rex50.ktor-cars"
